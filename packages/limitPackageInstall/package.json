@@ -1,0 +1,25 @@
+{
+    "name": "limit-package-install",
+    "version": "1.0.2",
+    "description": "",
+    "main": "index.js",
+    "bin": "index.js",
+    "author": "",
+    "license": "ISC",
+    "keywords": [
+        "limit",
+        "install",
+        "npm",
+        "pnpm",
+        "preinstall",
+        "delete limit package",
+        "remove illegal package"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/webgzh907247189/limitPackageInstall.git"
+    },
+    "bugs": {
+        "url": "https://github.com/webgzh907247189/limitPackageInstall/issues"
+    }
+}

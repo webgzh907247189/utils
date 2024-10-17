@@ -1,0 +1,7 @@
+node_modules
+dist
+test
+jest.config.js
+
+coverageUtil/report.json
+coverageUtil
