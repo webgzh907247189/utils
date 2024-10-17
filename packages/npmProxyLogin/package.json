@@ -3,9 +3,24 @@
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
+    "bin": "index.js",
+    "scripts": {},
     "author": "",
-    "license": "ISC"
+    "keywords": [
+        "npm",
+        "login",
+        "proxy",
+        "pnpm",
+        "npm login proxy",
+        "private npm login proxy"
+    ],
+    "license": "ISC",
+    "homepage": "https://github.com/webgzh907247189/utils/tree/main/packages/npmProxyLogin/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/webgzh907247189/utils.git"
+    },
+    "bugs": {
+        "url": "https://github.com/webgzh907247189/utils/issues"
+    }
 }
