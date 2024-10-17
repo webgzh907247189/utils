@@ -15,6 +15,9 @@
         "delete limit package",
         "remove illegal package"
     ],
+    "publishConfig": {
+        "access": "public"
+    },
     "homepage": "https://github.com/webgzh907247189/utils/blob/main/packages/limitPackageInstall/README.md",
     "repository": {
         "type": "git",

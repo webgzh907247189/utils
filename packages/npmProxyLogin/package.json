@@ -14,6 +14,9 @@
         "npm login proxy",
         "private npm login proxy"
     ],
+    "publishConfig": {
+        "access": "public"
+    },
     "license": "ISC",
     "homepage": "https://github.com/webgzh907247189/utils/tree/main/packages/npmProxyLogin/README.md",
     "repository": {
