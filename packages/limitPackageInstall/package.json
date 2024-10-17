@@ -15,11 +15,12 @@
         "delete limit package",
         "remove illegal package"
     ],
+    "homepage": "https://github.com/webgzh907247189/utils/blob/main/packages/limitPackageInstall/README.md",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/webgzh907247189/limitPackageInstall.git"
+        "url": "https://github.com/webgzh907247189/utils.git"
     },
     "bugs": {
-        "url": "https://github.com/webgzh907247189/limitPackageInstall/issues"
+        "url": "https://github.com/webgzh907247189/utils/issues"
     }
 }
