@@ -1,5 +1,11 @@
 # npm-proxy-login
 
+## 1.0.5
+
+### Patch Changes
+
+-   new version
+
 ## 1.0.4
 
 ### Patch Changes
