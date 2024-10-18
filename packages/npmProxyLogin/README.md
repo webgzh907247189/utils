@@ -8,6 +8,6 @@
 
 ```json
   "scripts": {
-    "npmProxyLogin": "npx npmproxylogin -- https://registry.npmjs.org/ username password email"
+    "npmProxyLogin": "npx npmproxylogin  https://registry.npmjs.org/ username password email"
   }
 ```
