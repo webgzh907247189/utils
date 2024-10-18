@@ -1,5 +1,11 @@
 # npm-proxy-login
 
+## 1.0.2
+
+### Patch Changes
+
+-   publish new wersion for stdout
+
 ## 1.0.1
 
 ### Patch Changes
