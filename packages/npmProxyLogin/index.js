@@ -26,9 +26,11 @@ const result = exec(
 );
 result.stdout.on("data", (chunk) => {
 	console.log("111", chunk.toString());
-	const cmd = inputArray.shift();
-	console.log("\x1b[42;30m ～～～npm login 输入中～～～ \x1b[0m", chunk, cmd);
-	result.stdin.write(String(cmd));
+	if (chunk.toString()) {
+		const cmd = inputArray.shift();
+		console.log("\x1b[42;30m ～～～npm login 输入中～～～ \x1b[0m", chunk, cmd);
+		result.stdin.write(String(cmd));
+	}
 });
 
 process.on("error", () => {
