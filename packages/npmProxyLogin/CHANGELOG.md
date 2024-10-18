@@ -1,5 +1,11 @@
 # npm-proxy-login
 
+## 1.0.4
+
+### Patch Changes
+
+-   publish new version for trim
+
 ## 1.0.3
 
 ### Patch Changes
