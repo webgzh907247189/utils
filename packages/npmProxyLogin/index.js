@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-const { exec } = "child_process";
+const { exec } = require("child_process");
 
 const [registry, ...otherArgvList] = process.argv.slice(2);
 
