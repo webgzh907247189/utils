@@ -1,6 +1,6 @@
 {
     "name": "npm-proxy-login",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "",
     "main": "index.js",
     "bin": "index.js",
@@ -17,7 +17,7 @@
     "publishConfig": {
         "access": "public"
     },
-    "license": "ISC",
+    "license": "MIT",
     "homepage": "https://github.com/webgzh907247189/utils/tree/main/packages/npmProxyLogin/README.md",
     "repository": {
         "type": "git",
